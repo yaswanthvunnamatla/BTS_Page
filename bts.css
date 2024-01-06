@@ -1,0 +1,48 @@
+.bg-container {
+    background-image: url("flat.jpg");
+    height: 100vh;
+    background-size: cover;
+
+}
+
+.container {
+    text-align: center;
+    color: white;
+    font-family: "Roboto";
+    font-size: 16px;
+}
+
+.button {
+    background-color: #990073;
+    color: #cccccc;
+    border-radius: 8px;
+    font-size: 18px;
+    padding-bottom: 5px;
+    font-family: 'Breeserif';
+}
+
+span {
+    font-weight: bold;
+    font-style: italic;
+    color: #993399;
+    font-size: 20px;
+}
+
+.main-heading {
+    color: #8f00b3;
+    font-size: 45px;
+    font-family: 'Roboto';
+    font-weight: bold;
+    padding: 5px;
+}
+
+.description {
+    color: #cc3399;
+    font-weight: 700;
+    font-size: 20px;
+    padding-bottom: 5px;
+    font-family: 'Roboto';
+}
+.bts-home-page-container{
+    background-color: #99ffdd;
+}
